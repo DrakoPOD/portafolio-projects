@@ -1,0 +1,26 @@
+[
+    {
+        "id": "OTA-github",
+        "name": "OTA a GitHub",
+        "description": "Realizar un OTA a un repositorio privado de GitHub desde un microcontrolador con Arduino",
+        "date": "",
+        "folder": "",
+        "valoration": 8
+    },
+    {
+        "id": "IoT-control-dashboard",
+        "name": "DashBard para IoT",
+        "description": "Controlar diferentes interruptores y visualizar sensores desde un DashBoard realizado en Node-Red",
+        "date": "",
+        "folder": "",
+        "valoration": 9 
+    },
+    {
+        "id": "sesor-web",
+        "name": "Aplicación de sensores",
+        "description": "Visualizar sensores en una página web para laboratorios de física de escasos recursos",
+        "date": "",
+        "folder": "",
+        "valoration": 10
+    }
+]
