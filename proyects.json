@@ -20,7 +20,7 @@
         "name": "Aplicación de sensores",
         "description": "Visualizar sensores en una página web para laboratorios de física de escasos recursos",
         "date": "",
-        "folder": "sesor-web",
+        "folder": "sensor-web",
         "valoration": 10
     }
 ]
