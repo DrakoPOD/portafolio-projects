@@ -1,0 +1,2 @@
+# Dashboard para dispositivos IoT
+Un dashboard es un hud donde puedes ver toda la información escencial respecto a algo, en este caso, a tus dispostivos IoT. Muy útil para manejar y controlar todos tus dispositivos desde un solo lugar.
