@@ -1,4 +1,4 @@
-# Actualización OTA a un repositorio privado de GitHun
+# Actualización OTA a un repositorio privado de GitHub
 Una actualización OTA (Over the Air - Por el aire) es cuando se le carga un firmware a un microcontrolador mediante conexión Wi-Fi en vez de la usual comunicación serial.
 
 Por defecto, las librerías de OTA del ESP8266 y el ESP32, no adminten firmware cifrados o con "login", debe estar en formato RAW.
